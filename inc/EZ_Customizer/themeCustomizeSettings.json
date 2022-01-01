@@ -1,0 +1,77 @@
+{
+  "theme_name": "wp-rig",
+  "settings_id": "wp-rig_theme",
+  "sections": [
+    { "id": "google_cred", "title": "Google Credential", "priority": 30 },
+    { "id": "theme_colors", "title": "Theme Colors", "priority": 30 }
+  ],
+  "settings": [
+    {
+      "id": "gclient_id",
+      "label": "Google Client ID",
+      "section": "google_cred",
+      "refresh": false
+    },
+    {
+      "id": "gsecret_id",
+      "label": "Google Secret ID",
+      "section": "google_cred",
+      "refresh": false
+    },
+    {
+      "id": "gappname_id",
+      "label": "Google Application Name",
+      "section": "google_cred",
+      "refresh": false
+    },
+    {
+      "id": "fontcolor_id",
+      "label": "Font Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    },
+    {
+      "id": "headingcolor_id",
+      "label": "Heading Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    },
+    {
+      "id": "spancolor_id",
+      "label": "Accent Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    },
+    {
+      "id": "anchorcolor_id",
+      "label": "Anchor Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    },
+    {
+      "id": "anchorcoloractive_id",
+      "label": "Anchor Hover Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    },
+    {
+      "id": "anchorcolorvisited_id",
+      "label": "Anchor Active Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    },
+    {
+      "id": "buttoncolor_id",
+      "label": "Button Color",
+      "section": "theme_colors",
+      "refresh": true,
+      "type": "color"
+    }
+  ]
+}

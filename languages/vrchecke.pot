@@ -1,0 +1,682 @@
+# Copyright (C) 2022 VRCHECKE
+# This file is distributed under the same license as the VRCHECKE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VRCHECKE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: VRCHECKE\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: 1: comment count number, 2: title.
+#: ../vrchecke/comments.php:44
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../vrchecke/comments.php:38
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: ../vrchecke/comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: ../vrchecke/header.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: ../vrchecke/inc/Accessibility/Component.php:62
+msgid "Expand child menu"
+msgstr ""
+
+#: ../vrchecke/inc/Accessibility/Component.php:63
+msgid "Collapse child menu"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/Component.php:47, ../vrchecke/inc/Admin_Form/Component.php:47
+msgid "Form Entries"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:75
+msgid "Name"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:76
+msgid "Email"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:77
+msgid "E-Check"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:78
+msgid "Number of Devices"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:79
+msgid "Postal Code"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:80
+msgid "Date Registered"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:150
+msgid "Edit entry"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:151
+msgid "Delete"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:152
+msgid "ID: %d"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/class-form-entry-list.php:248
+msgid "Permanently Delete"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:13, ../vrchecke/inc/Admin_Form/inc/edit-entry.php:20
+msgid "Something went wrong."
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:13, ../vrchecke/inc/Admin_Form/inc/edit-entry.php:20, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:19, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:23, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:27, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:34, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:112, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:116, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:120, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:128
+msgid "Error"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:43
+msgid "Entry Details"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:61
+msgid "ID:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:69
+msgid "Name:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:73
+msgid "First Name"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:76
+msgid "First name"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:78
+msgid "Last Name"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:81
+msgid "Last name"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:86
+msgid "Email:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:95
+msgid "Entry Submitted:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:103
+msgid "First E-Check:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:106
+msgid "Yes"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:106
+msgid "No"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:111
+msgid "Number of devices:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:122
+msgid "Type of devices:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:133
+msgid "Postal Code:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:144
+msgid "Address:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:154
+msgid "City:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:164
+msgid "Phone Number:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:174
+msgid "Select first choice:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:191
+msgid "Select second choice:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:209
+msgid "Select third choice:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:226
+msgid "Selected choice:"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:248
+msgid "Update Entry"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/edit-entry.php:250
+msgid "Delete Entry"
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/entry-actions.php:19, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:112
+msgid "Nonce verification failed."
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/entry-actions.php:23, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:116
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/entry-actions.php:27, ../vrchecke/inc/Admin_Form/inc/entry-actions.php:120
+msgid "Invalid entry ID."
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/entry-actions.php:34
+msgid "Invalid entry."
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/entry-actions.php:128
+msgid "Failed to delete entry."
+msgstr ""
+
+#: ../vrchecke/inc/Admin_Form/inc/entry-page.php:55
+msgid "Search entries"
+msgstr ""
+
+#. translators: 1: required WP version number, 2: required PHP version number, 3: available WP version number, 4: available PHP version number
+#: ../vrchecke/inc/back-compat.php:25
+msgid "VRCHECKE requires at least WordPress version %1$s and PHP version %2$s. You are running versions %3$s and %4$s respectively. Please update and try again."
+msgstr ""
+
+#. translators: 1: required WP version number, 2: available WP version number
+#: ../vrchecke/inc/back-compat.php:30
+msgid "VRCHECKE requires at least WordPress version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#. translators: 1: required PHP version number, 2: available PHP version number
+#: ../vrchecke/inc/back-compat.php:35
+msgid "VRCHECKE requires at least PHP version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#: ../vrchecke/inc/Comments/Component.php:137
+msgid "New comment(s)"
+msgstr ""
+
+#: ../vrchecke/inc/Customer_Portal/Component.php:31
+msgid "Customer Portal"
+msgstr ""
+
+#: ../vrchecke/inc/Customer_Portal/inc/ajax-actions.php:26, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:26
+msgid "An authentication error occurred. Please try again."
+msgstr ""
+
+#: ../vrchecke/inc/Customer_Portal/inc/ajax-actions.php:42, ../vrchecke/inc/Customer_Portal/inc/ajax-actions.php:116
+msgid "User could not be found"
+msgstr ""
+
+#: ../vrchecke/inc/Customer_Portal/inc/ajax-actions.php:122, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:323, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:326, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:329
+msgid "Failed to add user meta for user with user id %1$d and meta key %2$s"
+msgstr ""
+
+#: ../vrchecke/inc/Customer_Portal/inc/ajax-actions.php:153, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:384
+msgid "Failed to add form entry"
+msgstr ""
+
+#: ../vrchecke/inc/Customer_Portal/inc/ajax-actions.php:180
+msgid "Failed to getform entry"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:64, ../vrchecke/inc/Nav_Menus/Component.php:88
+msgid "Primary"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:69
+msgid "Secondary"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:74
+msgid "Red"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:79
+msgid "Green"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:84
+msgid "Blue"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:89
+msgid "Yellow"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:94
+msgid "Black"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:99
+msgid "Grey"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:104
+msgid "White"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:109
+msgid "Dusty daylight"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:114
+msgid "Dusty sun"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:131
+msgid "Small"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:132
+msgid "S"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:137
+msgid "Medium"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:138
+msgid "M"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:143
+msgid "Large"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:144
+msgid "L"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:149
+msgid "Larger"
+msgstr ""
+
+#: ../vrchecke/inc/Editor/Component.php:150
+msgid "XL"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/Component.php:48, ../vrchecke/inc/Email_Template/Component.php:48
+msgid "Email Templates"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/class-email.php:161
+msgid "You cannot send emails with vrchecke theme until init/admin_init has been reached"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/class-email.php:243
+msgid "The full name"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/class-email.php:248
+msgid "The email address"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/class-email.php:253
+msgid "The first name"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/class-email.php:258
+msgid "The last name"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/class-email.php:263
+msgid "The password"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/email-page.php:18
+msgid "Email From:"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/email-page.php:27
+msgid "Email Address From:"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/email-page.php:36
+msgid "Email Tags:"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/email-page.php:45
+msgid "Email Message:"
+msgstr ""
+
+#: ../vrchecke/inc/Email_Template/inc/email-page.php:48
+msgid "Your email is %1s and your password assosiated is %2s"
+msgstr ""
+
+#. translators: %s: Post title.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../vrchecke/inc/Excerpts/Component.php:43, ../vrchecke/template-parts/content/entry_content.php:18
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../vrchecke/inc/Form_Customizer/Component.php:218, ../vrchecke/inc/Form_Customizer/Component.php:255, ../vrchecke/inc/Form_Customizer/Component.php:292, ../vrchecke/inc/Form_Customizer/Component.php:329, ../vrchecke/inc/Form_Customizer/Component.php:366, ../vrchecke/inc/Form_Customizer/Component.php:394
+msgid "Option Image"
+msgstr ""
+
+#: ../vrchecke/inc/Google_Sign_In/Component.php:221
+msgid "Google Signin Action"
+msgstr ""
+
+#. translators: %s: JS handle
+#: ../vrchecke/inc/JavaScript/Component.php:223
+msgid "Invalid theme JS handle: %s"
+msgstr ""
+
+#: ../vrchecke/inc/Login/Component.php:30
+msgid "Login"
+msgstr ""
+
+#: ../vrchecke/inc/Nav_Menus/Component.php:159, ../vrchecke/template-parts/header/navigation.php:38
+msgid "Open menu"
+msgstr ""
+
+#: ../vrchecke/inc/Nav_Menus/Component.php:170
+msgid "main-navigation nav--toggle-sub nav--toggle-small icon-nav"
+msgstr ""
+
+#: ../vrchecke/inc/Sidebars/Component.php:64
+msgid "Sidebar"
+msgstr ""
+
+#: ../vrchecke/inc/Sidebars/Component.php:66
+msgid "Add widgets here."
+msgstr ""
+
+#. translators: %s: stylesheet handle
+#: ../vrchecke/inc/Styles/Component.php:214
+msgid "Invalid theme stylesheet handle: %s"
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../vrchecke/inc/Template_Tags.php:54
+msgid "The theme templating component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: template tag name
+#: ../vrchecke/inc/Template_Tags.php:81
+msgid "The template tag %s does not exist."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../vrchecke/inc/Template_Tags.php:110
+msgid "The template tag method %1$s registered by theme component %2$s must either be a callable or an array."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../vrchecke/inc/Template_Tags.php:121
+msgid "The template tag method %1$s registered by theme component %2$s conflicts with an already registered template tag of the same name."
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../vrchecke/inc/Theme.php:59
+msgid "The theme component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: slug
+#: ../vrchecke/inc/Theme.php:128
+msgid "No theme component with the slug %s exists."
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:157
+msgid "Select if this is your first E-scheck or not"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:160
+msgid "Select Number of devices"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:163
+msgid "Select Type of electrical equipments"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:166
+msgid "Enter postal code"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:169
+msgid "Please add same postal code"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:172
+msgid "Enter your first name"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:175
+msgid "Enter your last name"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:178
+msgid "Enter your street address"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:181
+msgid "Enter your email address"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:184
+msgid "Enter your phone number address"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:308
+msgid "Failed to add user meta for user with user id %d"
+msgstr ""
+
+#: ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:405, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:408, ../vrchecke/inc/VRCHECKE_Form/inc/ajax-actions.php:411
+msgid "Failed to delete user meta for user with user id %1$d and meta key %2$s"
+msgstr ""
+
+#: ../vrchecke/sidebar.php:20
+msgid "Asides"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/entry-attachment.php:33, ../vrchecke/template-parts/content/entry.php:32
+msgid "Previous:"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/entry-attachment.php:43, ../vrchecke/template-parts/content/entry.php:33
+msgid "Next:"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/entry-attachment.php:49
+msgid "Post navigation"
+msgstr ""
+
+#. translators: %s: post title
+#: ../vrchecke/template-parts/content/entry_actions.php:21
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: post title
+#: ../vrchecke/template-parts/content/entry_actions.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/entry_content.php:31
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: post date
+#: ../vrchecke/template-parts/content/entry_meta.php:63
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author
+#: ../vrchecke/template-parts/content/entry_meta.php:76
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: %s: post author
+#: ../vrchecke/template-parts/content/entry_meta.php:79
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../vrchecke/template-parts/content/entry_meta.php:95
+msgctxt "post parent"
+msgid "In %s"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../vrchecke/template-parts/content/entry_meta.php:98
+msgctxt "post parent"
+msgid "in %s"
+msgstr ""
+
+#. translators: separator between taxonomy terms
+#: ../vrchecke/template-parts/content/entry_taxonomies.php:25
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: list of taxonomy terms
+#: ../vrchecke/template-parts/content/entry_taxonomies.php:32
+msgid "Posted in %s"
+msgstr ""
+
+#. translators: %s: list of taxonomy terms
+#: ../vrchecke/template-parts/content/entry_taxonomies.php:38
+msgid "Tagged %s"
+msgstr ""
+
+#. translators: %s: taxonomy name
+#: ../vrchecke/template-parts/content/entry_taxonomies.php:45
+msgid "%s:"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error-404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error-404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: ../vrchecke/template-parts/content/error-404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error-500.php:14
+msgid "Oops! Something went wrong."
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error-offline.php:14
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../vrchecke/template-parts/content/error.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. translators: %s: search query
+#: ../vrchecke/template-parts/content/page_header.php:41
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/page_header.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/page_header.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../vrchecke/template-parts/content/pagination.php:13
+msgctxt "previous set of search results"
+msgid "Previous"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/pagination.php:14
+msgctxt "next set of search results"
+msgid "Next"
+msgstr ""
+
+#: ../vrchecke/template-parts/content/pagination.php:15
+msgid "Page navigation"
+msgstr ""
+
+#: ../vrchecke/template-parts/customer/entry-portal.php:128
+msgid "Upload your invoice"
+msgstr ""
+
+#: ../vrchecke/template-parts/customer/entry-portal.php:153, ../vrchecke/template-parts/customer/entry-portal.php:172, ../vrchecke/template-parts/customer/entry-portal.php:193, ../vrchecke/template-parts/customer/entry-portal.php:228
+msgid "Not available"
+msgstr ""
+
+#: ../vrchecke/template-parts/customer/entry-portal.php:141
+msgid "No options available at the moment"
+msgstr ""
+
+#: ../vrchecke/template-parts/footer/info.php:13
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: ../vrchecke/template-parts/footer/info.php:16
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../vrchecke/template-parts/form/form.php:21, ../vrchecke/template-parts/form/form.php:36, ../vrchecke/template-parts/form/form.php:70, ../vrchecke/template-parts/form/form.php:95, ../vrchecke/template-parts/form/form.php:120, ../vrchecke/template-parts/form/form.php:145, ../vrchecke/template-parts/form/form.php:170
+msgid "Select"
+msgstr ""
+
+#: ../vrchecke/template-parts/form/form.php:53
+msgid "Number of Electrical Devices"
+msgstr ""
+
+#: ../vrchecke/template-parts/header/navigation.php:18
+msgid "Main menu"
+msgstr ""
+
+#: ../vrchecke/template-parts/header/navigation.php:40
+msgid "Menu"
+msgstr ""
